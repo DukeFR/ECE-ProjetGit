@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Quel joli volcan 1!" << endl;
+    cout << "Quel joli volcan 13!" << endl;
     return 0;
 }
